@@ -1,0 +1,181 @@
+Who wants to be a Millionaires Question and Solution---
+
+1. The Earth is approximately how many miles away from the Sun?
+A: 9.3 million
+
+B: 39 million
+
+C: 93 million
+
+D: 193 million
+
+Solution: The Earth is approximately ... 93 million miles away from the Sun.
+
+2. Which insect shorted out an early supercomputer and inspired the term "computer bug"?
+A: Moth
+
+B: Roach
+
+C: Fly
+
+D: Japanese beetle
+
+Solution: A ... moth was found inside the computer of scientist Grace Hopper.
+
+2. Which of the following men does not have a chemical element named for him?
+A: Albert Einstein
+
+B: Niels Bohr
+
+C: Isaac Newton
+
+D: Enrico Fermi
+
+Solution: It's ... Isaac Newton.
+
+3. Which of the following landlocked countries is entirely contained within another country?
+A: Lesotho
+
+B: Burkina Faso
+
+C: Mongolia
+
+D: Luxembourg
+
+Solution: The country of ... Lesotho is completely surrounded by South Africa.
+
+4. In the children’s book series, where is Paddington Bear originally from?
+A: India
+
+B: Peru
+
+C: Canada 
+
+D: Iceland
+
+Solution: Paddington is ... Peruvian.
+
+4. 3. Python is written in which language?
+
+A. C
+B. C++
+C. Java
+D. None of the above
+View Answer
+
+Ans : A
+Explanation: Python is written in C with default/traditional implementation as CPython. So, Option A is correct.
+
+5. 1. Python was developed by
+
+A. Guido van Rossum
+B. James Gosling
+C. Dennis Ritchie
+D. Bjarne Stroustrup
+View Answer
+
+Ans : A
+Explanation: A Dutch Programmer Guido van Rossum developed python at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC language.
+
+
+2.  Python was developed in which year?
+
+A. 1972
+B. 1995
+C. 1989
+D. 1981
+View Answer
+
+Ans : C
+Explanation: Python was introduced by Guido Van Rossum in 1989. So Option C is correct.
+
+6. According to the Population Reference Bureau, what is the approximate number of people who have ever lived on earth?
+A: 5o billion
+
+B: 100 billion
+
+C: 1 trillion
+
+D: 5 trillion
+
+Solution: The total world's population in history was, at the time, estimated to be ... 100 billion.
+
+7. Now used to refer to a cat, the word "tabby" is derived from the name of a district of what world capital?
+A: Baghdad
+
+B: New Delhi
+
+C: Cairo
+
+D: Moscow
+
+Solution: Tabby is derived from ... the capital of Iraq, Baghdad.
+
+8. What club did astronaut Alan Shepard use to make his famous golf shot on the moon?
+A: Nine iron
+
+B: Sand wedge
+
+C: Six iron
+
+D: Seven iron
+
+Solution: Shepard used a ... six iron.
+
+9. What scientist first determined that human sight results from images projected onto the retina?
+A: Galileo
+
+B: Copernicus
+
+C: Johannes Kepler
+
+D: Isaac Newton
+
+Solution: It was ... Johannes Kepler.
+
+10. If you planted the seeds of Quercus robur, what would grow?
+A: Trees
+
+B: Flowers
+
+C: Vegetables
+
+D: Grain
+
+Solution: Those seeds would produce ... oak trees.
+
+
+
+option1 = ["9.3 million", "Moth", 
+           "Albert Einstein", "Lesotho", 
+	   "India", "C", "Guido van Rossum", 
+	   "1972", "5o billion", "Baghdad", 
+	   "Nine iron", "Galileo", "Trees"]
+
+
+option2 = ["39 million", "Roach", 
+	   "Niels Bohr", "Burkina Faso", 
+	   "Peru", "C++", 
+	   "James Gosling", 
+	   "1995", "100 billion", 
+	   "New Delhi", "Sand wedge", 
+	   "Copernicus", "Flowers"]
+
+option3 = ["93 million", "Fly", 
+	   "Isaac Newton", "Mongolia", 
+	   "Canada", "Java", 
+	   "Dennis Ritchie", "1989", 
+	   "1 trillion", "Cairo", 
+	   "Six iron", "Johannes Kepler", 
+	   "Vegetables"]
+
+option4 = ["193 million", "Japanese beetle", 
+	   "Enrico Fermi", "Luxembourg", 
+	   "Iceland", "None of the above", 
+	   "Bjarne Stroustrup", "1981", 
+	   "5 trillion", "Moscow", 
+	   "Seven iron", "Isaac Newton", "Grain"]
+
+
+
+correct_answer = ["93 million", "Moth", "Isaac Newton", "Lesotho", "Peru", "C", "Guido van Rossum", "1989", "100 billion", "Baghdad", "Six iron", "Johannes Kepler","Trees"] 
